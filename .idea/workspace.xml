@@ -11,6 +11,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -20,10 +21,10 @@
   </component>
   <component name="ProjectId" id="1YI8eR6czPNkbw8kk7VR363WrFA" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jsoup-1.13.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java-telegram-bot-api-full.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,9 +38,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Third">
+  <component name="RunManager" selected="Application.Fouth">
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First" />
+      <module name="Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fouth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fouth" />
       <module name="Lab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fouth" />
         <item itemvalue="Application.Third" />
         <item itemvalue="Application.Second" />
         <item itemvalue="Application.First" />
